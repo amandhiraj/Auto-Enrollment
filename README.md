@@ -4,7 +4,7 @@
 - [x] Automatically login a user
 - [x] Check if course is full
 - [x] Enroll user to the selected course.
-- [ ] Multi user usage.
+- [ ] Multi-user usage.
 
 # Download?
 - Source code will not be released as this is a personal project that needs YorkU permission to use.
